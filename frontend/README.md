@@ -1,4 +1,4 @@
-# trb
+# Text Sentiment - front-end
 
 ## Project setup
 ```
